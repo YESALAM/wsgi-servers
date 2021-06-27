@@ -33,7 +33,7 @@ schema==0.7.1
 six==1.14.0
 sqlparse==0.3.1
 uritemplate==3.0.1
-urllib3==1.25.8
+urllib3==1.26.5
 django-request-logging==0.7.1
 whitenoise==5.0.1
 drf-yasg==1.17.1
